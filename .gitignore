@@ -1,5 +1,7 @@
 bitcoinfuzz
+libbtcd_wrapper.*
 */target/
 crash-*
 leak-*
 timeout-*
+build/
